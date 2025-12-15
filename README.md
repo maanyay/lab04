@@ -1,1 +1,1 @@
-# lab04
+# include<stdio.h>
